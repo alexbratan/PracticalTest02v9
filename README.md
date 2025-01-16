@@ -1,1 +1,2 @@
-# PracticalTest02v9
+Bratan Alex-Florin
+Grupa 342C3
